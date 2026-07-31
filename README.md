@@ -1,4 +1,4 @@
-# Smart Expense Tracker API
+7# Smart Expense Tracker API
 
 ## Overview
 
@@ -144,5 +144,4 @@ If everything is working correctly, you should see:
 ## Author
 
 **Akash Zendekar**
-
-Final Year B.E. Information Science and Engineering
+Graduate B.E. Information Science and Engineering
