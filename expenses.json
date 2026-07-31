@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Coffee",
+        "amount": 5,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 3,
+        "title": "Dinner",
+        "amount": 240,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 4,
+        "title": "Mobile Recharge",
+        "amount": 1000,
+        "category": "mobile",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 6,
+        "title": "Movie",
+        "amount": 300,
+        "category": "Entertainment",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 7,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 8,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 9,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 10,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 11,
+        "title": "shooping",
+        "amount": 1200.0,
+        "category": "shirt",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 12,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 13,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-07-31"
+    },
+    {
+        "id": 14,
+        "title": "string",
+        "amount": 1.0,
+        "category": "string",
+        "date": "2026-07-31"
+    }
+]
